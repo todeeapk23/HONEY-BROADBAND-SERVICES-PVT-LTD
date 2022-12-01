@@ -969,8 +969,7 @@
 .fa-terminal:before {
   content: "\f120";
 }
-.fa-code:before {
-  content: "\f121";
+
 }
 .fa-mail-reply-all:before,
 .fa-reply-all:before {
